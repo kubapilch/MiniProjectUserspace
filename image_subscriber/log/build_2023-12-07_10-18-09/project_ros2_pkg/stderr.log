@@ -1,0 +1,4 @@
+[01m[K/home/mp4d/ros2_ws/src/image_subscriber/src/image_subscriber.cpp:[m[K In member function ‘[01m[Kvoid ImageSubscriber::onImageMsg(sensor_msgs::msg::Image_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/mp4d/ros2_ws/src/image_subscriber/src/image_subscriber.cpp:118:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kread_value[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  118 |      float [01;35m[Kread_value[m[K = (*(this->bram_driver))[(i*48) + j];
+      |            [01;35m[K^~~~~~~~~~[m[K
